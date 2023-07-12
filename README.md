@@ -1,2 +1,1 @@
-How accurate can I train an over/under model? Can I possibly beat the odds on flex or power picks on gambling sites such as PrizePicks? Although initially grim, it seems possible as these gambling sites are tailoring their odds to disfavor the team with larger fan-base. https://www.miragenews.com/how-bookmakers-tip-sports-betting-odds-in-their-favour/. 
-In light of this, it seems possible to maybe beat the odds.  
+NBA over/under logistic regression for players. 
